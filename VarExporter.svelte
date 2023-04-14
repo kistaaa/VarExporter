@@ -4,7 +4,6 @@ let types =["strong typed", "let", "const", "var", "nothing"]
 let defType = types[0]
 let semi = true
 let demo = [["message", "hello world"], ["width", "10"], ["height", "4.5"], ["is_on", "true"], ["is_off", "false"], ["numbers", "[1, 2, 3]"], ["words", '["hello", "world"]'], ["position", '{"x":1, "y":2}']]
-$: js = []
 
 function findType(str){
 	const isInteger = Number.isInteger(Number(str));
@@ -45,7 +44,7 @@ function findType(str){
 <h1>
 	VarExporter
 	</h1>
-	<p>This simple app is mainly for learning/teaching purposes. Just edit the variable-value pairs to generate code.</p>
+	<p>This simple app is mainly for learning/teaching purposes. Just edit the variable-value pairs to generate code. It will diferentiate strings, numbers, booleans, arrays and objects.</p>
 	<p><i>Let, const and var:</i> are for Javascript and other languages. Remember that 'const' is immutable.</p>
 	<p><i>Nothing:</i> is for languages like Python and Ruby.</p>
 	<p><i>Strong typed:</i> is for languages like java, c#, c, c++. This script will give some guidance about the types, but the actual names and structures used in each language are different, for example some languages use 'bool' instead of 'boolean'. Also, arrays and objects are created diferently.</p>
