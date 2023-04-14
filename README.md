@@ -1,5 +1,5 @@
 # VarExporter
-This simple app is mainly for learning/teaching purposes. Just edit the variable-value pairs to generate code.
+This simple app is mainly for learning/teaching purposes. Just edit the variable-value pairs to generate code. It will diferentiate strings, numbers, booleans, arrays and objects.
 
 # How to use
 Just copy and paste the contents of *VarExporter.svelte* into [Svelte Repl](https://svelte.dev/repl/) to see it running!
