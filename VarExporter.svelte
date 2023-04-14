@@ -39,15 +39,6 @@ function findType(str){
 	return 'string'
 }
 	
-function readText(e){
-	js = []
-	let lines = e.target.value.split('\n');
-	for(let i = 0;i < lines.length; i++){
-		if(lines[i]!= '') js.push(lines[i].split(' '))
-	}
-	js = js
-}
-	
 </script>
 
 <header>
