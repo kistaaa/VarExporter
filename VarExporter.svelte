@@ -44,7 +44,7 @@ function findType(str){
 <h1>
 	VarExporter
 	</h1>
-	<p>This simple app is mainly for learning/teaching purposes. Just edit the variable-value pairs to generate code. It will diferentiate strings, numbers, booleans, arrays and objects.</p>
+	<p>This simple app is mainly for learning/teaching purposes. Just edit the variable-value pairs, and it will diferentiate strings, numbers, booleans, arrays and objects, and generate code based on the options provided.</p>
 	<p><i>Let, const and var:</i> are for Javascript and other languages. Remember that 'const' is immutable.</p>
 	<p><i>Nothing:</i> is for languages like Python and Ruby.</p>
 	<p><i>Strong typed:</i> is for languages like java, c#, c, c++. This script will give some guidance about the types, but the actual names and structures used in each language are different, for example some languages use 'bool' instead of 'boolean'. Also, arrays and objects are created diferently.</p>
