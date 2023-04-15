@@ -1,5 +1,5 @@
 # VarExporter
-This demo is mainly for learning/teaching purposes and it is 100% [Svelte](https://svelte.dev)! Edit, create and delete the variable-value pairs to see the generated code, it can diferentiate strings, ints, floats, booleans, arrays and objects.
+This demo is mainly for learning/teaching purposes and it is 100% [Svelte](https://svelte.dev)! Edit, create and delete the variable-value pairs to see the generated code based on the selected options, it can diferentiate strings, ints, floats, booleans, arrays and objects. You can write strings without "", no equals, no semicolons, and avoid typo errors.
 
 # Demo
 [https://varexporter.surge.sh/](https://varexporter.surge.sh/)
