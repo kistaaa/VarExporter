@@ -1,6 +1,9 @@
 # VarExporter
-This simple app is mainly for learning/teaching purposes and 100% Svelte! Just edit the variable-value pairs, and it will diferentiate strings, numbers, booleans, arrays and objects, and generate code based on the options provided.
+This demo is mainly for learning/teaching purposes and it is 100% [Svelte](https://svelte.dev)! Edit, create and delete the variable-value pairs to see the generated code, it can diferentiate strings, ints, floats, booleans, arrays and objects.
+
+# Demo
+[https://varexporter.surge.sh/](https://varexporter.surge.sh/)
 
 # How to use
-Just copy and paste the contents of *VarExporter.svelte* into [Svelte Repl](https://svelte.dev/repl/) to see it running!
-Or download and save *VarExporter.svelte* in your svelte project folder and import it in your main app.
+Just copy and paste the contents of *VarExporter.svelte* into [Svelte Repl](https://svelte.dev/repl/) to edit it!
+Or download *VarExporter.svelte* in your svelte project folder.
